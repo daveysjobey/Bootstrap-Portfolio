@@ -1,0 +1,33 @@
+body{
+    background-image: url(images/qbkls.png);
+}
+.navbar{
+    padding:0rem 1rem;
+    border-bottom: gray solid 3px;
+    background-color: #ffffff;
+}
+.far{
+    color:#ffffff;
+}
+
+.navbar-light .navbar-brand {
+    color:#ffffff;
+    background-color: #20b2aa;
+    padding:.5rem 2rem;
+    margin:0px 20px;
+    font-size: 1.5rem;
+    font-family: serif;
+    font-weight: bold;
+}
+.navbar-nav{
+    margin: 0px 20px;
+}
+#Tagline{
+    font-weight: bold;
+    margin: .5rem 0rem;
+}
+.container{
+    margin: 3rem;
+    background-color: #ffffff;
+    padding: 2rem;
+}
