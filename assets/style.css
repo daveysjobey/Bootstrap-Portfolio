@@ -63,3 +63,8 @@ h1{
     border-bottom-width: 3px !important;
     border-bottom-style: solid !important;
     border-bottom-color: rgb(222, 226, 230) !important;
+}
+.fixed-bottom{
+    background-color: #ffffff;
+    padding: 1px;
+}
