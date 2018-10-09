@@ -48,3 +48,7 @@ body{
     background-color: #20b2aa;
     border-color: #20b2aa;
 }
+
+.card{
+    margin: 1rem;
+}
