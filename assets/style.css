@@ -3,7 +3,7 @@ body{
 }
 .navbar{
     padding:0rem 1rem;
-    border-bottom: gray solid 3px;
+    border-bottom: #dee2e6 solid 3px;
     background-color: #ffffff;
 }
 .far{
@@ -48,7 +48,18 @@ body{
     background-color: #20b2aa;
     border-color: #20b2aa;
 }
+h1{
+    
+   margin: 0rem,1rem;
+    color: #20b2aa;
+}
 
 .card{
     margin: 1rem;
 }
+
+.border-bottom {
+    border-bottom: 3px solid #dee2e6!important;
+    border-bottom-width: 3px !important;
+    border-bottom-style: solid !important;
+    border-bottom-color: rgb(222, 226, 230) !important;
